@@ -2,6 +2,10 @@
 
 This is a demo microservices project built using **ASP.NET Core (.NET 9)** that demonstrates a full microservices architecture using both **synchronous (HTTP/gRPC)** and **asynchronous (RabbitMQ)** communication, along with **Docker** and **Kubernetes** orchestration.
 
+![Microservices Architecture](diagrams/1.png)
+
+![Microservices Architecture](diagrams/2.png)
+
 ## 🚀 Features
 
 ### ✅ Microservices Architecture
